@@ -6,3 +6,4 @@
 - 2026-10-03 (morning)
 - 2026-10-03 (afternoon)
 - 2026-10-04 (morning)
+- 2026-10-04 (afternoon)
