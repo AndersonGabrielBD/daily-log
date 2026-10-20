@@ -38,3 +38,4 @@ teste
 - 2026-10-19 (morning)
 - 2026-10-19 (afternoon)
 - 2026-10-20 (morning)
+- 2026-10-20 (afternoon)
