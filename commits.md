@@ -45,3 +45,4 @@ teste
 - 2026-10-22 (afternoon)
 - 2026-10-23 (morning)
 - 2026-10-23 (afternoon)
+- 2026-10-24 (morning)
